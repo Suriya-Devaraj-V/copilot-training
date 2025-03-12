@@ -12,6 +12,7 @@
   c. `/clear` helps to clean the chat. <br>
   d. `/doc` helps to create the documentation or comment lines. <br>
   e. `/explain` helps to describe the selected code. <br>
+  f. `/test` helps to generate the test cases for the applications. <br>
 
 ## Reverse Engineering
 
@@ -45,4 +46,9 @@ or
 @workspace **refactor** the current file into multiple files.
 ```
 To insert the new file, there will be 3 dots - insert into the file by providing the name and save.
+
+### Writing test cases.
+```
+@workspace **refactor** the current file into multiple files.
+```
 
